@@ -8,7 +8,7 @@ Practice of SQL functions on Dodger's center dataset
 I’m currently focused on knowing SQL to fetch, manipulate and create data. In this new learning phase, I currently need to put out my new skills about SQL functions I self-learned. This is my first SQL project and I’m passionate about creating more. In this project, I will share the steps I took in analyzing the data, and lastly, I will be transparent with my report.
 
 ### The Data
-This project uses SQL (Structured Query Language) to perform an exploratory data analysis on the “Dodgers Sports Facility Center”. This is fictitious (imaginary) client data for a certain company in the US region in Las Vegas. The file is broken down into three tables; “bookings, facilities, and members”
+This project uses SQL (Structured Query Language) to perform exploratory data analysis on the “Dodgers Sports Facility Center”. This is fictitious (imaginary) client data for a certain company in the US region in Las Vegas. The file is broken down into three tables; “bookings, facilities, and members”
 
 ### Solution
 I made use of PostgreSQL as I’m more familiar with this ORDBMS (Oriental-Relational Database Management System). Also, I made use of the SQL functions to query for results.
